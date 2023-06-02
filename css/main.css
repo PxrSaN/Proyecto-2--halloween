@@ -247,7 +247,7 @@ button{
   border-radius: 50%;
 }
 
-/*=============== HOME ===============*/
+/*----------- HOME -----------*/
 .home__content{
   row-gap: 1rem;
 }
@@ -341,7 +341,7 @@ button{
   border-radius: .5rem;
 }
 
-/*=============== BUTTONS ===============*/
+/*----------- BUTTONS -----------*/
 .button{
   display: inline-block;
   background-color: var(--first-color);
@@ -381,7 +381,7 @@ button{
   column-gap: .5rem;
 }
 
-/*=============== CATEGORY ===============*/
+/*----------- CATEGORY -----------*/
 .category__container{
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem 2rem;
@@ -405,7 +405,7 @@ button{
   transform: translateY(-.5rem);
 }
 
-/*=============== ABOUT ===============*/
+/*----------- ABOUT -----------*/
 .about__container{
   row-gap: 2rem;
 }
